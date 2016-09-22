@@ -1,0 +1,1 @@
+- Modul Admin -> Perusahaan -> Struktur Organisasi : Disable dulu.

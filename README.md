@@ -1,2 +1,2 @@
-# caterlindo_hrm
-caterlindo
+# Caterlindo HRM
+Project caterlindo sistem HRD
